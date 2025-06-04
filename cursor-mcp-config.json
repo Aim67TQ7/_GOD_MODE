@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "practical-ai": {
+      "command": "python",
+      "args": ["C:/Users/rclausing/Desktop/GodMode/cursor_mcp_integration.py"],
+      "env": {
+        "SUPABASE_URL": "${SUPABASE_URL}",
+        "SUPABASE_KEY": "${SUPABASE_KEY}"
+      }
+    }
+  }
+}
